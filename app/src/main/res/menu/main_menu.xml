@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:elco3d="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/foto"
+        android:title="Fotos"
+        elco3d:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/direccion"
+        android:title="Dirección"
+        elco3d:showAsAction="always"
+        />
+    <item
+        android:id="@+id/play"
+        android:title="Play"
+        elco3d:showAsAction="always"
+        />
+
+
+</menu>
